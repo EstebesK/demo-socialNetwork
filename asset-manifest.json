@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EstebesK/demo-socialNetwork.git/static/css/main.b2db128d.chunk.css",
+    "main.js": "/EstebesK/demo-socialNetwork.git/static/js/main.8717a5d9.chunk.js",
+    "main.js.map": "/EstebesK/demo-socialNetwork.git/static/js/main.8717a5d9.chunk.js.map",
+    "runtime-main.js": "/EstebesK/demo-socialNetwork.git/static/js/runtime-main.43588d8a.js",
+    "runtime-main.js.map": "/EstebesK/demo-socialNetwork.git/static/js/runtime-main.43588d8a.js.map",
+    "static/js/2.bcee9d2c.chunk.js": "/EstebesK/demo-socialNetwork.git/static/js/2.bcee9d2c.chunk.js",
+    "static/js/2.bcee9d2c.chunk.js.map": "/EstebesK/demo-socialNetwork.git/static/js/2.bcee9d2c.chunk.js.map",
+    "static/js/3.50184ea1.chunk.js": "/EstebesK/demo-socialNetwork.git/static/js/3.50184ea1.chunk.js",
+    "static/js/3.50184ea1.chunk.js.map": "/EstebesK/demo-socialNetwork.git/static/js/3.50184ea1.chunk.js.map",
+    "index.html": "/EstebesK/demo-socialNetwork.git/index.html",
+    "static/css/main.b2db128d.chunk.css.map": "/EstebesK/demo-socialNetwork.git/static/css/main.b2db128d.chunk.css.map",
+    "static/js/2.bcee9d2c.chunk.js.LICENSE.txt": "/EstebesK/demo-socialNetwork.git/static/js/2.bcee9d2c.chunk.js.LICENSE.txt",
+    "static/media/social-network.d7afdff8.png": "/EstebesK/demo-socialNetwork.git/static/media/social-network.d7afdff8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43588d8a.js",
+    "static/js/2.bcee9d2c.chunk.js",
+    "static/css/main.b2db128d.chunk.css",
+    "static/js/main.8717a5d9.chunk.js"
+  ]
+}
